@@ -13,5 +13,5 @@
 3) Логическая схема БД.
 
    ![image] (https://github.com/Yashkov-DM/Customer_Service/blob/master/schema_bd.jpeg)
-   ![image] (schema_bd.jpeg)
+   ![image] (/schema_bd.jpeg)
 
