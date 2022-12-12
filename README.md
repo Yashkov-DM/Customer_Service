@@ -10,3 +10,7 @@
 2) В проекте реализована API для сущности по работе с запросами клиентов на тех.обслуживание - 
    SupportService. Предусмотрена аутентификация API через Bearer Token.
    Подробное описание API смотри swagger.yaml. 
+3) Логическая схема БД.
+
+   ![image] (https://github.com/Yashkov-DM/Customer_Service/blob/master/schema_bd.jpeg)
+
