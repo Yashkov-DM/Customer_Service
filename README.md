@@ -12,6 +12,5 @@
    Подробное описание API смотри swagger.yaml. 
 3) Логическая схема БД.
 
-   ![image] (https://github.com/Yashkov-DM/Customer_Service/blob/master/schema_bd.jpeg)
-   ![image] (schema_bd.jpeg)
+   <img height="500" src="/home/dmitriy/PhpstormProjects/Laravel/customer_service/schema_bd.jpeg" title="schema" width="400"/> 
 
